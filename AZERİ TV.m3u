@@ -16,11 +16,11 @@ https://5e06e5e8c2e27.streamlock.net:1936/videonow/Ismayiilli_Meddaya/media_w537
 #EXTGRP:Azerbaijan Channels
 https://cze.proxy.zelcore.io/https://rpn3.bozztv.com/ssh101/ssh101/yardimlitv/playlist.m3u8
 
-#EXTINF:0,TBRT VİZYON TV
-#EXTGRP:TBRT
+#EXTINF:0,HÇRT ON TV
+#EXTGRP:HÇRT
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/TEBER_SINEMA/chunklist_w429059606.m3u8
 
-#EXTINF:0,HÇRT UMUT TV
+#EXTINF:0,HÇRT UMUT  TV
 #EXTGRP:HÇRT
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT_TIMUR_TV/chunklist_w1992418063.m3u8
 
