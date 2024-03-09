@@ -16,21 +16,22 @@ https://5e06e5e8c2e27.streamlock.net:1936/videonow/Ismayiilli_Meddaya/media_w537
 #EXTGRP:Azerbaijan Channels
 https://cze.proxy.zelcore.io/https://rpn3.bozztv.com/ssh101/ssh101/yardimlitv/playlist.m3u8
 
-#EXTINF:0,HÇRT ON TV
+#EXTINF:0,TEBER STAR
 #EXTGRP:HÇRT
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/TEBER_SINEMA/chunklist_w429059606.m3u8
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/TEBER_STAR/chunklist_w1373314934.m3u8
 
 #EXTINF:0,HÇRT UMUT  TV
 #EXTGRP:HÇRT
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT_TIMUR_TV/chunklist_w1992418063.m3u8
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/HCRT_UMUT/chunklist_w1459799037.m3u8
 
-#EXTINF:0,HÇRT EHLİBEYT
+#EXTINF:0,TEBER ON
 #EXTGRP:HÇRT
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/TEBER_EHLIBEYT_TV/chunklist_w1224914318.m3u8
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/TEBER_ON/chunklist_w409133111.m3u8
 
-#EXTINF:0,HÇRTTEZENE TV
+
+#EXTINF:0,HÇRT TEZENE TV
 #EXTGRP:HÇRT
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/TEBER_MUZIK/chunklist_w446102712.m3u8
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/HCRT_TEZENE/chunklist_w1233569335.m3u8
 
 #EXTINF:0,TBRT AŞKI NEVA TV
 #EXTGRP:HÇRT
