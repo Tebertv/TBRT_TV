@@ -3,7 +3,6 @@
 NOT:KANALLARIMIZ TOPLAMA OLUP VE HİÇ KİMSEYE PARA İLE SATILMAZ KANALLAR İNTERNETDE YAYINLANAN BEDAVA KANALLAR VE İLGİSİ OLMAYAN İNSANLARI KENDİ KANALI GİBİ KANDIRIP PARA İLE SATANLARDAN ALINARAK GARİBANLARA BEDAVA VERİLMEKDE OLUP KİMSEYE PARA KARŞILIĞI SATILMAZ BU KANALLAR ARKADAŞLAR ARASINDA BİRBİRİMİZE PAYLAŞMAK DURUMU İLE OLUŞDURULMUŞ KANALLARDIR BİZİM SAYFADA KANAL PAZARLAYAN YOKDUR SADECE GELİRİ OLMAYAN KARDEŞLERİMİZİN AİLELERİ İLE İZLEMELERİ İÇİN OLUŞDURULMUŞ KANALLAR OLUP BİZDEN GİZLİCE ALIP SATANLARDA TESBİD EDİLİP GURUBDAN ATILMIŞ KİŞİLERDİR BU LİSDEYİ PAYLAŞMAK AMACLI OLUŞDURULMUŞDUR
 PAYLAŞMAK İNSANLIĞI BİR ARADA TUTAR GARDAŞLIĞI PEKİŞDİRİR  SAYGILARIMLA TEBER GURUP PAYLAŞIM SAYFASI.....2024..
 
-
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png", TEBER STAR
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/TEBER_STAR/chunklist_w1373314934.m3u8
 
@@ -27,6 +26,12 @@ https://streaming.netdirekt.com.tr/35757/teleontv/teleonmediagroups_live_4kultra
 
 #EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/fed5c4b0-7c09-4199-9baf-6334206d424f.png" group-title=",TR SES TV
 http://stream.tvcdn.net/yerel/tr-ses-tv.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",İSMAYİLLİ Tv
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/ismailli_medya/chunklist_w663062282.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",YARDIMLI Tv
+http://cors.tundracast.com:2000/https://rpn3.bozztv.com/ssh101/ssh101/yardimlitv/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",EM TV
 http://cdn-tvem.yayin.com.tr/TVEM/TVEM/chunklist_w1583799478.m3u8
@@ -3167,18 +3172,14 @@ https://goreletv.ozelip.com.tr:3843/hybrid/play.m3u8
 
 *****************************AZERİ TV****************************************
 
-
-#EXTINF:0,İSMAYİLLİ HD
+#EXTINF:0,İSMAYİLLİ TV
 #EXTGRP:Azerbaijan Channels
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/Ismayiilli_Meddaya/chunklist_w974889507.m3u8
-
-#EXTINF:0,İSMAYİLLİ FHD
-#EXTGRP:Azerbaijan Channels
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/Ismayiilli_Meddaya/media_w537511478_28.m3u8
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/ismailli_medya/chunklist_w663062282.m3u8
 
 #EXTINF:0,YARDIMLI TV
 #EXTGRP:Azerbaijan Channels
-https://rpn3.bozztv.com/ssh101/ssh101/yardimlitv/playlist.m3u8
+http://cors.tundracast.com:2000/https://rpn3.bozztv.com/ssh101/ssh101/yardimlitv/playlist.m3u8
+
 
 #EXTINF:0,AzTV
 #EXTGRP:Azerbaijan Channels
