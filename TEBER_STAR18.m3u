@@ -39,6 +39,9 @@ https://5e06e5e8c2e27.streamlock.net:1936/videonow/ismailli_medya/chunklist_w663
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",YARDIMLI Tv
 http://cors.tundracast.com:2000/https://rpn3.bozztv.com/ssh101/ssh101/yardimlitv/playlist.m3u8
 
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",HOR HORROR Tv
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/HorrorBoxtv/playlist.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",EM TV
 http://cdn-tvem.yayin.com.tr/TVEM/TVEM/chunklist_w1583799478.m3u8
 
