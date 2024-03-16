@@ -3,6 +3,24 @@
 NOT:KANALLARIMIZ TOPLAMA OLUP VE HİÇ KİMSEYE PARA İLE SATILMAZ KANALLAR İNTERNETDE YAYINLANAN BEDAVA KANALLAR VE İLGİSİ OLMAYAN İNSANLARI KENDİ KANALI GİBİ KANDIRIP PARA İLE SATANLARDAN ALINARAK GARİBANLARA BEDAVA VERİLMEKDE OLUP KİMSEYE PARA KARŞILIĞI SATILMAZ BU KANALLAR ARKADAŞLAR ARASINDA BİRBİRİMİZE PAYLAŞMAK DURUMU İLE OLUŞDURULMUŞ KANALLARDIR BİZİM SAYFADA KANAL PAZARLAYAN YOKDUR SADECE GELİRİ OLMAYAN KARDEŞLERİMİZİN AİLELERİ İLE İZLEMELERİ İÇİN OLUŞDURULMUŞ KANALLAR OLUP BİZDEN GİZLİCE ALIP SATANLARDA TESBİD EDİLİP GURUBDAN ATILMIŞ KİŞİLERDİR BU LİSDEYİ PAYLAŞMAK AMACLI OLUŞDURULMUŞDUR
 PAYLAŞMAK İNSANLIĞI BİR ARADA TUTAR GARDAŞLIĞI PEKİŞDİRİR  SAYGILARIMLA TEBER GURUP PAYLAŞIM SAYFASI.....2024..
 
+#EXTINF:0 type="stream" channelId="-1" group-title="TEBER_KANALLARI" logo="TBRT-logo-2.png",TRT 1 
+https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="TEBER_KANALLARI" logo="TBRT-logo-2.png",TRT 2 
+https://tv-trt2.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="7-HABER" logo="/TEBER_MEDYA-logo-2.png",TRT 3 HABER 
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="TEBER_KANALLARI" logo="TBRT-logo-2.png",TRT 4K
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/160629
+
+#EXTINF:0 type="stream" channelId="-1" group-title="TEBER_KANALLARI" logo="TBRT-logo-2.png",TRT5 TÜRK 
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="TEBER_KANALLARI" logo="TBRT-logo-2.png",TRT6 AVAZ 
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png", TEBER STAR
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/TEBER_STAR/chunklist_w1373314934.m3u8
 
@@ -18,14 +36,75 @@ https://5e06e5e8c2e27.streamlock.net:1936/videonow/HCRT_TEZENE/chunklist_w123356
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",HÇRT EHLİBEYT TV
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/TEBER_EHLIBEYT_TV/chunklist_w1246576528.m3u8
 
+#EXTINF:0 type="stream" channelId="-1" group-title="1_HÇRT_TV_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",YANSIMA SİNEMA TV
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/yansinematvs/chunklist_w1968217333.m3u8
+
+---------------#### SABİT BELGESEL TV ####-----------
+
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",HÇRT SAFARİ TV
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/HCRT_SAFARI_TV/chunklist_w104338443.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_HÇRT_TV_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",YANSIMA BELGESEL TV
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/Yansima-Dance-Tv/chunklist_w779700620.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_HÇRT_TV_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",YANSIMA SİNEMA TV
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/yansinematvs/chunklist_w1968217333.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="TEBER_KANALLARI" logo="TBRT-logo-2.png",TRT BELGESEL
+https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
+
+---------------#### TURK BELGESEL ####-----------
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: TARIH TV HD" tvg-logo="" group-title="TR | BELGESEL",TR: TARIH TV HD
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/421982
+
+#EXTINF:-1 tvg-id="natgeo.tr" tvg-name="TR: National Geographic HD" tvg-logo="https://imagizer.imageshack.com/img924/1885/35XxCX.png" group-title="TR | BELGESEL",TR: National Geographic HD
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/243219
+
+#EXTINF:-1 tvg-id="natgeowild.tr" tvg-name="TR: Nat Geo Wild HD" tvg-logo="https://imagizer.imageshack.com/img922/6835/sjXSTE.png" group-title="TR | BELGESEL",TR: Nat Geo Wild HD
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/243221
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",DİSCOVER TV
+https://discoverydrm.blutv.com/blutv_discovery_drm/discovery_hd_drm.smil/chunklist_b4128000.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",DİSCOVER ID TV
+https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master_2.m3u8
+
+#EXTINF:-1 tvg-id="tlc.tr" tvg-name="TR: TLC TV HD+" tvg-logo="https://imagizer.imageshack.com/img922/6721/W6gtLX.png" group-title="TR | BELGESEL",TR: TLC TV HD+
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/243194
+#EXTINF:-1 tvg-id="bbcearth.tr" tvg-name="TR: BBC Earth HD+" tvg-logo="http://http://logo.bosstv.live/Logo/TR/BELGESEL/HD/BBC.EARTH.png" group-title="TR | BELGESEL",TR: BBC Earth HD+
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/243198
+#EXTINF:-1 tvg-id="beiniz.tr" tvg-name="TR:  IZ HD+" tvg-logo="https://imagizer.imageshack.com/img924/7783/uqZnwv.png" group-title="TR | BELGESEL",TR: beIN IZ HD+
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/243201
+#EXTINF:-1 tvg-id="discoverychannel.tr" tvg-name="TR: DISCOVERY CHANNEL HD+" tvg-logo="https://imagizer.imageshack.com/img924/343/J2HuXl.png" group-title="TR | BELGESEL",TR: DISCOVERY CHANNEL HD+
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/243202
+#EXTINF:-1 tvg-id="discoverychannel.tr" tvg-name="TR: DISCOVERY CHANNEL HD" tvg-logo="https://imagizer.imageshack.com/img924/343/J2HuXl.png" group-title="TR | BELGESEL",TR: DISCOVERY CHANNEL HD
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/243203
+#EXTINF:-1 tvg-id="discoveryid.tr" tvg-name="TR: DISCOVERY IDX" tvg-logo="http://logo.bosstv.live/Logo/TR/BELGESEL/HD/DISCOVERY.ID.png" group-title="TR | BELGESEL",TR: DISCOVERY IDX
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/243204
+#EXTINF:-1 tvg-id="discoveryid.tr" tvg-name="TR: DISCOVERY IDX HD" tvg-logo="http://logo.bosstv.live/Logo/TR/BELGESEL/HD/DISCOVERY.IDX.png" group-title="TR | BELGESEL",TR: DISCOVERY IDX HD
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/243205
+#EXTINF:-1 tvg-id="viasathistory.tr" tvg-name="TR: ViASAT HiSTORY HD+" tvg-logo="https://imagizer.imageshack.com/img922/143/A8GOzy.png" group-title="TR | BELGESEL",TR: ViASAT HiSTORY HD+
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/243206
+#EXTINF:-1 tvg-id="viasathistory.tr" tvg-name="TR: VIASAT HISTORY HD" tvg-logo="https://imagizer.imageshack.com/img922/143/A8GOzy.png" group-title="TR | BELGESEL",TR: VIASAT HISTORY HD
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/243207
+#EXTINF:-1 tvg-id="" tvg-name="TR: VIASAT NATURE HD" tvg-logo="http://logo.bosstv.live/Logo/TR/BELGESEL/HD/VIASAT.NATURE.png" group-title="TR | BELGESEL",TR: VIASAT NATURE HD
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/226120
+#EXTINF:-1 tvg-id="historychannel.tr" tvg-name="TR: History FHD" tvg-logo="https://imagizer.imageshack.com/img924/2494/TJumUL.png" group-title="TR | BELGESEL",TR: History FHD
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/243209
+#EXTINF:-1 tvg-id="docubox.tr" tvg-name="TR: DOCUBOX HD+" tvg-logo="https://imagizer.imageshack.com/img922/3328/OzEnhL.png" group-title="TR | BELGESEL",TR: DOCUBOX HD+
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/243210
+#EXTINF:-1 tvg-id="" tvg-name="TR: LOVE NATURE HD+" tvg-logo="https://imagizer.imageshack.com/img923/7798/YecNuV.png" group-title="TR | BELGESEL",TR: LOVE NATURE HD+
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/243213
+#EXTINF:-1 tvg-id="dmax.tr" tvg-name="TR: DMAX HD+" tvg-logo="https://imagizer.imageshack.com/img924/7396/96CKA7.png" group-title="TR | BELGESEL",TR: DMAX HD+
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/243216
+#EXTINF:-1 tvg-id="dmax.tr" tvg-name="TR: DMAX HD" tvg-logo="https://imagizer.imageshack.com/img924/7396/96CKA7.png" group-title="TR | BELGESEL",TR: DMAX HD
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/243217
+#EXTINF:-1 tvg-id="natgeo.tr" tvg-name="TR: National Geographic HD+" tvg-logo="https://imagizer.imageshack.com/img924/1885/35XxCX.png" group-title="TR | BELGESEL",TR: National Geographic HD+
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/243218
+#EXTINF:-1 tvg-id="discoveryscience.tr" tvg-name="TR: DISCOVERY SCIENCE FHD" tvg-logo="https://imagizer.imageshack.com/img923/8707/A5PJiA.png" group-title="TR | BELGESEL",TR: DISCOVERY SCIENCE FHD
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/259820
+#EXTINF:-1 tvg-id="bbcearth.tr" tvg-name="TR: BBC Earth HD" tvg-logo="https://i.pinimg.com/originals/ad/2e/57/ad2e57aa2d71eee1f79fb1b8fcb932da.png" group-title="TR | BELGESEL",TR: BBC Earth HD
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/374326
+
+*********************************************************************************************************
 
 #EXTINF:0 type="stream" channelId="-1" group-title="7-HABER" logo="/TEBER_MEDYA-logo-2.png",TELE ON TV 
 https://streaming.netdirekt.com.tr/35757/teleontv/teleonmediagroups_live_4kultrahd_lisansli/chunks.m3u8
@@ -153,34 +232,17 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="1_HÇRT_TV_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TBRT➠AŞKI NEVA HD
 https://ythls.armelin.one/channel/UCJ5bBXls09z7Cjwg-qBzAZQ.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TRT 1 HD
-https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="TEBER_KANALLARI" logo="TBRT-logo-2.png",TRT 2 
-https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="7-HABER" logo="/TEBER_MEDYA-logo-2.png",TRT3 HABER 
-https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+********************TRTÇOCUK-TV-------------------------------------------------------------------
 
-#EXTINF:-1,TR: TRT 4K
-http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/160629
-
-#EXTINF:0 type="stream" channelId="-1" group-title="TEBER_KANALLARI" logo="TBRT-logo-2.png",TRT5 TÜRK 
-https://tv-trtturk.medya.trt.com.tr/master.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="TEBER_KANALLARI" logo="TBRT-logo-2.png",TRT6 AVAZ 
-https://tv-trtavaz.medya.trt.com.tr/master.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="TEBER_KANALLARI" logo="TBRT-logo-2.png",TRT7 BELGESEL
-https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="TEBER_KANALLARI" logo="TBRT-logo-2.png",TRT8  ÇOCUK
+#EXTINF:0 type="stream" channelId="-1" group-title="TEBER_KANALLARI" logo="TBRT-logo-2.png",TRT ÇOCUK
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="TEBER_KANALLARI" logo="TBRT-logo-2.png",TRT9 DYN ÇOCUK
+#EXTINF:0 type="stream" channelId="-1" group-title="TEBER_KANALLARI" logo="TBRT-logo-2.png",TRT DYN ÇOCUK
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="TEBER_KANALLARI" logo="TBRT-logo-2.png",TRT10 ÇOCUK EBA
+#EXTINF:0 type="stream" channelId="-1" group-title="TEBER_KANALLARI" logo="TBRT-logo-2.png",TRT1 ÇOCUK EBA
 https://tv-e-okul01.medya.trt.com.tr/master.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="TEBER_KANALLARI" logo="TBRT-logo-2.png",TRT11 MÜZİK
@@ -204,64 +266,13 @@ https://5e06e5e8c2e27.streamlock.net:1936/videonow/Ismayiilli_Meddaya/media_w537
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",YARDIMLI TV 
 https://rpn3.bozztv.com/ssh101/ssh101/yardimlitv/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",DİSCOVER TV
-https://discoverydrm.blutv.com/blutv_discovery_drm/discovery_hd_drm.smil/chunklist_b4128000.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",DİSCOVER ID TV
-https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master_2.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="#### TURK BELGESEL ####" tvg-logo="" group-title="TR | BELGESEL",#### TURK BELGESEL ####
-http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/243193
-#EXTINF:-1 tvg-id="tlc.tr" tvg-name="TR: TLC TV HD+" tvg-logo="https://imagizer.imageshack.com/img922/6721/W6gtLX.png" group-title="TR | BELGESEL",TR: TLC TV HD+
-http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/243194
-#EXTINF:-1 tvg-id="bbcearth.tr" tvg-name="TR: BBC Earth HD+" tvg-logo="http://http://logo.bosstv.live/Logo/TR/BELGESEL/HD/BBC.EARTH.png" group-title="TR | BELGESEL",TR: BBC Earth HD+
-http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/243198
-#EXTINF:-1 tvg-id="beiniz.tr" tvg-name="TR:  IZ HD+" tvg-logo="https://imagizer.imageshack.com/img924/7783/uqZnwv.png" group-title="TR | BELGESEL",TR: beIN IZ HD+
-http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/243201
-#EXTINF:-1 tvg-id="discoverychannel.tr" tvg-name="TR: DISCOVERY CHANNEL HD+" tvg-logo="https://imagizer.imageshack.com/img924/343/J2HuXl.png" group-title="TR | BELGESEL",TR: DISCOVERY CHANNEL HD+
-http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/243202
-#EXTINF:-1 tvg-id="discoverychannel.tr" tvg-name="TR: DISCOVERY CHANNEL HD" tvg-logo="https://imagizer.imageshack.com/img924/343/J2HuXl.png" group-title="TR | BELGESEL",TR: DISCOVERY CHANNEL HD
-http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/243203
-#EXTINF:-1 tvg-id="discoveryid.tr" tvg-name="TR: DISCOVERY IDX" tvg-logo="http://logo.bosstv.live/Logo/TR/BELGESEL/HD/DISCOVERY.ID.png" group-title="TR | BELGESEL",TR: DISCOVERY IDX
-http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/243204
-#EXTINF:-1 tvg-id="discoveryid.tr" tvg-name="TR: DISCOVERY IDX HD" tvg-logo="http://logo.bosstv.live/Logo/TR/BELGESEL/HD/DISCOVERY.IDX.png" group-title="TR | BELGESEL",TR: DISCOVERY IDX HD
-http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/243205
-#EXTINF:-1 tvg-id="viasathistory.tr" tvg-name="TR: ViASAT HiSTORY HD+" tvg-logo="https://imagizer.imageshack.com/img922/143/A8GOzy.png" group-title="TR | BELGESEL",TR: ViASAT HiSTORY HD+
-http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/243206
-#EXTINF:-1 tvg-id="viasathistory.tr" tvg-name="TR: VIASAT HISTORY HD" tvg-logo="https://imagizer.imageshack.com/img922/143/A8GOzy.png" group-title="TR | BELGESEL",TR: VIASAT HISTORY HD
-http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/243207
-#EXTINF:-1 tvg-id="" tvg-name="TR: VIASAT NATURE HD" tvg-logo="http://logo.bosstv.live/Logo/TR/BELGESEL/HD/VIASAT.NATURE.png" group-title="TR | BELGESEL",TR: VIASAT NATURE HD
-http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/226120
-#EXTINF:-1 tvg-id="historychannel.tr" tvg-name="TR: History FHD" tvg-logo="https://imagizer.imageshack.com/img924/2494/TJumUL.png" group-title="TR | BELGESEL",TR: History FHD
-http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/243209
-#EXTINF:-1 tvg-id="docubox.tr" tvg-name="TR: DOCUBOX HD+" tvg-logo="https://imagizer.imageshack.com/img922/3328/OzEnhL.png" group-title="TR | BELGESEL",TR: DOCUBOX HD+
-http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/243210
-#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: TGRT BELGESEL" tvg-logo="https://imagizer.imageshack.com/img924/4360/bCtOv4.png" group-title="TR | BELGESEL",TR: TGRT BELGESEL
-http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/243212
-#EXTINF:-1 tvg-id="" tvg-name="TR: LOVE NATURE HD+" tvg-logo="https://imagizer.imageshack.com/img923/7798/YecNuV.png" group-title="TR | BELGESEL",TR: LOVE NATURE HD+
-http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/243213
-#EXTINF:-1 tvg-id="dmax.tr" tvg-name="TR: DMAX HD+" tvg-logo="https://imagizer.imageshack.com/img924/7396/96CKA7.png" group-title="TR | BELGESEL",TR: DMAX HD+
-http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/243216
-#EXTINF:-1 tvg-id="dmax.tr" tvg-name="TR: DMAX HD" tvg-logo="https://imagizer.imageshack.com/img924/7396/96CKA7.png" group-title="TR | BELGESEL",TR: DMAX HD
-http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/243217
-#EXTINF:-1 tvg-id="natgeo.tr" tvg-name="TR: National Geographic HD+" tvg-logo="https://imagizer.imageshack.com/img924/1885/35XxCX.png" group-title="TR | BELGESEL",TR: National Geographic HD+
-http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/243218
-#EXTINF:-1 tvg-id="natgeo.tr" tvg-name="TR: National Geographic HD" tvg-logo="https://imagizer.imageshack.com/img924/1885/35XxCX.png" group-title="TR | BELGESEL",TR: National Geographic HD
-http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/243219
-#EXTINF:-1 tvg-id="natgeowild.tr" tvg-name="TR: Nat Geo Wild HD" tvg-logo="https://imagizer.imageshack.com/img922/6835/sjXSTE.png" group-title="TR | BELGESEL",TR: Nat Geo Wild HD
-http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/243221
-#EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-name="TR: TRT BELGESEL HD+" tvg-logo="https://imagizer.imageshack.com/img922/408/V5Rjaq.png" group-title="TR | BELGESEL",TR: TRT BELGESEL HD+
-http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/243222
-#EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-name="TR: TRT Belgesel HD" tvg-logo="https://imagizer.imageshack.com/img922/408/V5Rjaq.png" group-title="TR | BELGESEL",TR: TRT Belgesel HD
-http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/243223
-#EXTINF:-1 tvg-id="discoveryscience.tr" tvg-name="TR: DISCOVERY SCIENCE FHD" tvg-logo="https://imagizer.imageshack.com/img923/8707/A5PJiA.png" group-title="TR | BELGESEL",TR: DISCOVERY SCIENCE FHD
-http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/259820
 #EXTINF:-1 tvg-id="tlc.tr" tvg-name="TR: TLC TV HD" tvg-logo="https://imagizer.imageshack.com/img922/6721/W6gtLX.png" group-title="TR | BELGESEL",TR: TLC TV HD
 http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/374324
+
 #EXTINF:-1 tvg-id="animalplanet.tr" tvg-name="TR: Animal Planet HD" tvg-logo="https://imagizer.imageshack.com/img924/5792/w7Z43l.png" group-title="TR | BELGESEL",TR: Animal Planet HD
 http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/374325
-#EXTINF:-1 tvg-id="bbcearth.tr" tvg-name="TR: BBC Earth HD" tvg-logo="https://i.pinimg.com/originals/ad/2e/57/ad2e57aa2d71eee1f79fb1b8fcb932da.png" group-title="TR | BELGESEL",TR: BBC Earth HD
-http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/374326
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: TGRT BELGESEL" tvg-logo="https://imagizer.imageshack.com/img924/4360/bCtOv4.png" group-title="TR | BELGESEL",TR: TGRT BELGESEL
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/243212
 #EXTINF:-1 tvg-id="beingurme.tr" tvg-name="TR: beiN GURME HD+" tvg-logo="https://imagizer.imageshack.com/img923/8864/y4o8k9.png" group-title="TR | BELGESEL",TR: beiN GURME HD+
 http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/374327
 #EXTINF:-1 tvg-id="" tvg-name="TR: TARIM TV" tvg-logo="" group-title="TR | BELGESEL",TR: TARIM TV
@@ -270,9 +281,11 @@ http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/374329
 http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/374330
 #EXTINF:-1 tvg-id="" tvg-name="TR: ViASAT EXPLORER" tvg-logo="" group-title="TR | BELGESEL",TR: ViASAT EXPLORER
 http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/416422
-#EXTINF:-1 tvg-id="" tvg-name="TR: TARIH TV HD" tvg-logo="" group-title="TR | BELGESEL",TR: TARIH TV HD
-http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/421982
 
+#EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-name="TR: TRT BELGESEL HD+" tvg-logo="https://imagizer.imageshack.com/img922/408/V5Rjaq.png" group-title="TR | BELGESEL",TR: TRT BELGESEL HD+
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/243222
+#EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-name="TR: TRT Belgesel HD" tvg-logo="https://imagizer.imageshack.com/img922/408/V5Rjaq.png" group-title="TR | BELGESEL",TR: TRT Belgesel HD
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/243223
 *******************************belgesel***************************************************
 
 #EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-name="TRT BELGESEL FULL HD" tvg-logo="http://onecentcdn.com/newpicon/TR/trtbelgesellogo4.png" group-title="TR ⋅ BELGESEL",TRT BELGESEL FULL HD
