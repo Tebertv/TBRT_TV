@@ -15,14 +15,14 @@ https://5e06e5e8c2e27.streamlock.net:1936/videonow/Teber_tv/chunklist_w32207099.
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",HÇRT TEZENE
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/HCRT_TEZENE/chunklist_w1233569335.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",HÇRT SAFARİ TV
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/HCRT_SAFARI_TV/chunklist_w104338443.m3u8
-
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",HÇRT EHLİBEYT TV
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/TEBER_EHLIBEYT_TV/chunklist_w1246576528.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_HÇRT_TV_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TBRT➠AŞKI NEVA HD
-https://ythls.armelin.one/channel/UCJ5bBXls09z7Cjwg-qBzAZQ.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",HÇRT SAFARİ TV
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/HCRT_SAFARI_TV/chunklist_w104338443.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_HÇRT_TV_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",YANSIMA BELGESEL TV
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/Yansima-Dance-Tv/chunklist_w779700620.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_HÇRT_TV_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",YANSIMA SİNEMA TV
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/yansinematvs/chunklist_w1968217333.m3u8
@@ -149,6 +149,9 @@ https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 
 #EXTINF:-1 tvg-id="24.tr" tvg-name="beyaztv" tvg-logo="http://hasbahca.net/TVLogo/TR/tv360tr.png" group-title="TR: ULTRA HD KANALLAR",BEYAZ TV 
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_HÇRT_TV_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TBRT➠AŞKI NEVA HD
+https://ythls.armelin.one/channel/UCJ5bBXls09z7Cjwg-qBzAZQ.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TRT 1 HD
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
@@ -5274,8 +5277,34 @@ https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist.m3u8
 
 *************TEBER DUBLAJ FİLM****************************
 
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png",ZAMAN YOLCUSUNUN KARISI TR DUB 
+https://rovideo.xyz/045/tt0452694.1080p.tr.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png",İNTİGAM MELEKLERİ TR DUB 4 
+https://rovideo.xyz/329/tt3291150.480p.tr.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", Kuşatma TR DUB 
+https://rovideo.xyz/161/tt16156592.480p.tr.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", Einstein ve Atom Bombası TR DUB 
+https://rovideo.xyz/287/tt28756876.480p.tr.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", MEA CULPA TR DUB  
+https://rovideo.xyz/268/tt26861992.480p.tr.m3u8
+
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png",ÖLÜMCÜL ÇARPIŞMA TR DUB
+https://rovideo.xyz/687/tt6879446.480p.tr.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png",İntikam Gecesi TR DUB
+https://rovideo.xyz/265/tt26533869.480p.tr.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", Büyük LOGUN X MAN TR DUB
+https://rovideo.xyz/331/tt3315342.480p.tr.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", Büyük kırmızı köpek TR DUB
 https://rovideo.xyz/239/tt2397461.480p.tr.m3u8
+
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", Kapdan Marvel TR DUB
 https://rovideo.xyz/106/tt10676048.1080p.tr.m3u8
@@ -5366,7 +5395,6 @@ http://vod02.cdn.web.tv/is/to/istodk0jlai_,720,.mp4.urlset/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", BATAN GÜNEŞ HD 
 https://vod02.cdn.web.tv/c8/xe/c8xe6mbjb6w_,720,.mp4.urlset/playlist.m3u8
-
 ---TEBER-RADYO-LİNKLERİ----------
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBERLİSDE_RADYOLARI" logo=",SRT  FM SUNGURLU
